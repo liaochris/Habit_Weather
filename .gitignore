@@ -2,6 +2,10 @@
 Data/cleaned_data.csv
 Data/cleaned_data_2012.csv
 
+.DS_Store
+Data/.DS_Store
+Data/Housing/.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
